@@ -15,13 +15,18 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=10c0u0kys-dk3FHpAAVAoq9ENkx
+Your Rationale: When I picked this color for a gaming console, this is an excuse to use wild colords
+that would not typically be acceptable in other places. So for that I choose orange because, one, I really
+like the color, 2 it pops out at the user making the site for a video game console seem sleek and
+high  tech that would fit for a gaming console.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=5320u0kys-dk3FHpAAVAoq9ENkx
+Your Rationale: When you think gardens, you think green, which is why I choose this specific color pallet.
+However, green by itself is boring and gardens often have colored flowers as well which is why I choose to
+include lots of blue as well. Make the site more interesting yet still fit the theme of "Garden"
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
