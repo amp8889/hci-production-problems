@@ -38,5 +38,8 @@ them to the site and make them want to be there.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=72L0E0kGQv4j5IHsrFwK4m+QJed
+Your Rationale: Because we are advertising, we want colors that pop out and makes its colors known which
+is why I choose bright colors. The second one, what it the one thing that everyone thinks of when they thinks
+of hacking, The Matrix, which is why the main color will be green as it matches with matrix code. The other colors
+are mainly to complement the main color yet still pop out so that it grabs its views attention.
