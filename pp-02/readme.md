@@ -30,8 +30,11 @@ include lots of blue as well. Make the site more interesting yet still fit the t
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=33Y0v0kfKsO68MgaP--kynKp4ja
+Your Rationale: For this color selection, I choose a lighter version of blue orange and yellow.
+I typically find that lighter versions of colors tend to be more kid friendly and welcoming to the
+younger audience. Furthermore, I picked colors that many kids favor when they are younger which will draw
+them to the site and make them want to be there.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
