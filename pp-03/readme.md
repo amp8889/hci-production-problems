@@ -40,10 +40,14 @@ eyes of the user to the problem.
 too compact on mobile. The menu was wasted space on the left that did not need to be there, so I moved that that
 too the top, secondly, the margins are much too small, the letters are just barely not touching the edge. So I moved
 them all in a little bit, not to mention that the footer is even worse since the screen seems to be slightly too
-small for this website, I feel that there should not be a side scroll bar at all.rfffffffffffffffffffffffffff
+small for this website, I feel that there should not be a side scroll bar at all.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/):
+* Describe how you implemented that guideline in your sketch: The last thing that I want to fix it the buttons
+on this screen, especially in the footer, the buttons are much too close together, and while this is fine with a
+mouse, with fingers its much harder to click on. I have a friend with shaky hands and really struggles to direct
+where he wants his fingers to go. This is an acceptability problem and it must be fixed. So I will spread out the buttons
+and put more space in-between them so they are easier to click. Ill also make them slightly bigger as well.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
