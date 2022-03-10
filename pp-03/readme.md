@@ -35,8 +35,12 @@ the user to sections that were done wrong, such as when an invalid email was ent
 something that was required it would light up red to alert the user what needs to be fixed and will very easily draw
 eyes of the user to the problem.
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Two (https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/):
+* Describe how you implemented that guideline in your sketch: I felt that the original layout of this website was much
+too compact on mobile. The menu was wasted space on the left that did not need to be there, so I moved that that
+too the top, secondly, the margins are much too small, the letters are just barely not touching the edge. So I moved
+them all in a little bit, not to mention that the footer is even worse since the screen seems to be slightly too
+small for this website, I feel that there should not be a side scroll bar at all.rfffffffffffffffffffffffffff
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
