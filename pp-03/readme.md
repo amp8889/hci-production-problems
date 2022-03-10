@@ -29,8 +29,11 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline One (https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/):
+* Describe how you implemented that guideline in your sketch: I want to use color to draw the eyes of
+the user to sections that were done wrong, such as when an invalid email was entered, or skipping
+something that was required it would light up red to alert the user what needs to be fixed and will very easily draw
+eyes of the user to the problem.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
