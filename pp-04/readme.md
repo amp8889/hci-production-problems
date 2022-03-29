@@ -29,8 +29,7 @@ a repository on a team member’s computer. **That will be your shared repositor
 3. Copy and paste the URL for your team’s GitHub organization here: https://github.com/The-Pavlik-Ahn-Fasano-Clown-Fiesta
 
 
-4. Copy and paste the URL showing your team’s GitHub organization members here:https://github.com/orgs/The-Pavlik-Ahn-Fasano-Clown-Fiesta/people
-
+4. Copy and paste the URL showing your team’s GitHub organization members here:https://github.com/The-Pavlik-Ahn-Fasano-Clown-Fiesta/Anchor-Antics/graphs/contributors
 
 5. Copy and paste the URL for your team’s shared repository for Project Two here:https://github.com/The-Pavlik-Ahn-Fasano-Clown-Fiesta/Anchor-Antics
 
@@ -47,13 +46,20 @@ second remote. Run `git remote add upstream` followed by the URL for your team�
 
 Write or copy & paste the output of `git remote -v` from your copy of the forked repository here:
 
+origin	git@github.com:amp8889/Anchor-Antics.git (fetch)
+origin	git@github.com:amp8889/Anchor-Antics.git (push)
+upstream	git@github.com:The-Pavlik-Ahn-Fasano-Clown-Fiesta/Anchor-Antics.git (fetch)
+upstream	git@github.com:The-Pavlik-Ahn-Fasano-Clown-Fiesta/Anchor-Antics.git (push)
+
+
+
 8. Next, on a feature branch called `self-intro`, all team members should add their names to the
 `README.md` file, along with brief sentence or two of what the member believes are his/her primary
 strengths. Prior to creating the `self-intro` branch, be sure to pull from the remote repo (`git
 pull upstream main`) to get any other team members’ names and strengths. Add and commit your own
 work, and push to your own repository (`git push origin self-intro`).
 
-Copy and paste the URL of your pull request here:
+Copy and paste the URL of your pull request here:https://github.com/The-Pavlik-Ahn-Fasano-Clown-Fiesta/Anchor-Antics/pull/7
 
 9. Finally, within your fork of the repository on GitHub, open up a pull request from your
 `self-intro` branch to `main` branch in the shared  repository. Each team member should review the
