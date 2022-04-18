@@ -16,8 +16,8 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. https://drpete.co/blog/25-point-website-usability-checklist
+2. https://www.socialmediatoday.com/news/is-your-website-user-friendly-a-25-point-website-usability-checklist-info/528678/
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
