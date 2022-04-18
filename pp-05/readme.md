@@ -28,8 +28,8 @@ I put 3 links because I found it funny that I found the exact same list on 2 com
 3.  Ensure that the background does not clash with the text color
 4.  Ensure that not too many objects on are the screen at one time to avoid overwhelming the usernames
 5.  Ensure that the site structure is the same throughout the entire site
-6.
-7.
-8.
-9.
-10.
+6.  If you have a search bar, Ensure that it is easy to use and works properly
+7.  Ensure that all links are obvious that they are links
+8.  Ensure that you have little to no horizontal scrolling
+9.  Ensure that you website works on varying degrees of of screen sizes
+10. Ensure that your site fits the needs of users with disabilities.
