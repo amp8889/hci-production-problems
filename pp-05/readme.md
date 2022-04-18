@@ -17,15 +17,17 @@ for your first (and second) round of usability testing.
 * URLs for the usability checklists you’ve found:
 
 1. https://drpete.co/blog/25-point-website-usability-checklist
-2. https://www.socialmediatoday.com/news/is-your-website-user-friendly-a-25-point-website-usability-checklist-info/528678/
+2. https://html.com/blog/website-testing-usability-checklist/
+3. https://www.socialmediatoday.com/news/is-your-website-user-friendly-a-25-point-website-usability-checklist-info/528678/
+I put 3 links because I found it funny that I found the exact same list on 2 completely different websites
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
+1.  Ensure that load times are reasonable
+2.  Ensure the navigation is obvious and simple to use
+3.  Ensure that the background does not clash with the text color
+4.  Ensure that not too many objects on are the screen at one time to avoid overwhelming the usernames
+5.  Ensure that the site structure is the same throughout the entire site
 6.
 7.
 8.
